@@ -4,6 +4,7 @@ Idk what to put here so, enjoy the dotfiles or idk
 
 This is how it looks:
 <img src="https://github.com/papu163/epic-dotfiles/blob/main/examples/1.png?raw=true">
+<img src="https://github.com/papu163/epic-dotfiles/blob/main/examples/2.png?raw=true">
 
 Original waybar config from https://github.com/harsh-m-patil/.dotfiles
 
