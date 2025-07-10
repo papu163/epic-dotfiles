@@ -1,6 +1,6 @@
 # How to install
 
-First install this dependencies, apps and git like this:
+First install this dependencies, apps and git like this (there are some missing dependencies but you can check while using and checking the dotfiles):
 
 ```bash
 sudo pacman -S git hyprlock hyprpaper fish kitty neovim waybar yad
@@ -9,7 +9,7 @@ sudo pacman -S git hyprlock hyprpaper fish kitty neovim waybar yad
 and
 
 ```bash
-yay -S wlogout
+yay -S wlogout nerdfetch
 ```
 or use the AUR helper you have
 
